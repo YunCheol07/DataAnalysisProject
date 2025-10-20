@@ -534,3 +534,6 @@ A: Train에서도 54.4%가 독성이었고, Recall 88.4%를 고려하면 **합�
 ***
 
 **감사합니다!** 🎉
+
+## 4반 경연 결과
+<img width="1221" height="1072" alt="image" src="https://github.com/user-attachments/assets/76f5f456-c5cc-4049-9693-486e08f4ef5f" />

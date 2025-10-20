@@ -535,6 +535,9 @@ A: Train에서도 54.4%가 독성이었고, Recall 88.4%를 고려하면 **합�
 
 **감사합니다!** 🎉
 
+## 화합물 독성 예측 모델 EDA 작업 링크
+https://www.notion.so/SKALA-28f315ca9426806aa651f41504790926?source=copy_link
+
 ## 경연 결과 (4반 2등, SK경연기준 상위 5% 이내)
 <img width="1304" height="56" alt="image" src="https://github.com/user-attachments/assets/ee421224-1c3d-4a9d-b69d-3bd6d8800249" />
 

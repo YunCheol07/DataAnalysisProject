@@ -1,5 +1,8 @@
 # SKALA 데이터 분석 미니 프로젝트
 
+## 경연 결과 (4반 2등, SK 사내 구성원 경연기준 상위 5% 이내)
+<img width="1304" height="56" alt="image" src="https://github.com/user-attachments/assets/ee421224-1c3d-4a9d-b69d-3bd6d8800249" />
+
 # 📊 화합물 독성 예측 모델 발표자료
 
 ***
